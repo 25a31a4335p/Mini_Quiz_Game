@@ -25,26 +25,6 @@ A lightweight, console-based multiple-choice quiz written in C. Perfect for begi
 
 ---
 
-## 🚀 Quick start — Run locally
-1. Clone or download this repository.
-2. Open a terminal in the source folder.
-3. Compile the program (example):
-```bash
-gcc -o quiz quiz.c
-```
-4. Run:
-- On macOS / Linux:
-```bash
-./quiz
-```
-- On Windows:
-```powershell
-quiz.exe
-```
-5. Answer the questions as they appear and view your final score.
-
----
-
 ## 📚 Concepts demonstrated
 - Loops (for/while)
 - Conditional statements (if/else, switch)
