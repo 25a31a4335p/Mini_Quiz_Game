@@ -47,4 +47,14 @@ A lightweight, console-based multiple-choice quiz written in C. Perfect for begi
 Contributions and suggestions are welcome — feel free to open issues or submit pull requests to add questions, features or polish the UI.
 
 ---
+
+## Team Members
+- M.SUSHMITHA
+- B.SRITHA
+- V.SPOORTHI
+- K.SANJAY
+- K.YASHWANTH
+
+---
+
 Enjoy learning and improving the quiz!
